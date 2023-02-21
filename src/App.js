@@ -15,7 +15,7 @@ function App() {
     <BrowserRouter>
       <body id="page-top">
         <div id="wrapper">
-          <SideBAr></SideBAr>
+          <SideBAr> </SideBAr>
 
           <div id="content-wrapper" className="d-flex flex-column">
             <div id="content">
