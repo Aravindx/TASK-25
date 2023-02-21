@@ -19,7 +19,7 @@ function App() {
 
           <div id="content-wrapper" className="d-flex flex-column">
             <div id="content">
-              <TopBar></TopBar>
+              <TopBar> </TopBar>
               <div className="container-fluid">
                 <Routes>
                   <Route path="/" element={<DashBoard />} />
